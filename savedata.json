@@ -1,0 +1,386 @@
+{
+    "books": [
+        {
+            "title": "Let Us C",
+            "author": "Yashavant Kanetkar",
+            "isbn": "1",
+            "availability": true
+        },
+        {
+            "title": "Don Quixote",
+            "author": "Miguel de Cervantes",
+            "isbn": "2",
+            "availability": true
+        },
+        {
+            "title": "Alice's Adventures in Wonderland",
+            "author": "Lewis Carroll",
+            "isbn": "3",
+            "availability": true
+        },
+        {
+            "title": "The Adventures of Huckleberry Finn",
+            "author": "Mark Twain",
+            "isbn": "4",
+            "availability": true
+        },
+        {
+            "title": "The Adventures of Tom Sawyer",
+            "author": "Mark Twain",
+            "isbn": "5",
+            "availability": true
+        },
+        {
+            "title": "Treasure Island",
+            "author": "Robert Louis Stevenson",
+            "isbn": "6",
+            "availability": true
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn": "7",
+            "availability": true
+        },
+        {
+            "title": "Wuthering Heights",
+            "author": "Emily Brontë",
+            "isbn": "8",
+            "availability": true
+        },
+        {
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "isbn": "9",
+            "availability": true
+        },
+        {
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "isbn": "10",
+            "availability": true
+        }
+    ],
+    "members": [
+        {
+            "name": "ADDITI NAIK",
+            "member_id": 1,
+            "borrowed_books": []
+        },
+        {
+            "name": "ADEPU KAASHYAP",
+            "member_id": 2,
+            "borrowed_books": []
+        },
+        {
+            "name": "AMARAVADI PAVAN KUMAR",
+            "member_id": 3,
+            "borrowed_books": []
+        },
+        {
+            "name": "AMBATI LIKHITHA",
+            "member_id": 4,
+            "borrowed_books": []
+        },
+        {
+            "name": "AMBERPETA ANIRUDH",
+            "member_id": 5,
+            "borrowed_books": []
+        },
+        {
+            "name": "ANKIT KUMAR YADAV",
+            "member_id": 6,
+            "borrowed_books": []
+        },
+        {
+            "name": "ARADESI PRASHASTHA",
+            "member_id": 7,
+            "borrowed_books": []
+        },
+        {
+            "name": "ATLA GANESH REDDY",
+            "member_id": 8,
+            "borrowed_books": []
+        },
+        {
+            "name": "B ASHOK",
+            "member_id": 9,
+            "borrowed_books": []
+        },
+        {
+            "name": "BADAM KARTHIK",
+            "member_id": 10,
+            "borrowed_books": []
+        },
+        {
+            "name": "BHUPATHI DINESH CHANDRA",
+            "member_id": 11,
+            "borrowed_books": []
+        },
+        {
+            "name": "BIJIGIRI LAXMIPRIYA",
+            "member_id": 12,
+            "borrowed_books": []
+        },
+        {
+            "name": "BODAPATLA ROHITH KUMAR",
+            "member_id": 13,
+            "borrowed_books": []
+        },
+        {
+            "name": "BONDAPALLI SIDDARDHA",
+            "member_id": 14,
+            "borrowed_books": []
+        },
+        {
+            "name": "BUDIDHA NIKHITHA GOUD",
+            "member_id": 15,
+            "borrowed_books": []
+        },
+        {
+            "name": "BUSSI ADITHYA",
+            "member_id": 16,
+            "borrowed_books": []
+        },
+        {
+            "name": "CHEEDALLA SIRI CHANDANA",
+            "member_id": 17,
+            "borrowed_books": []
+        },
+        {
+            "name": "CHITLA PRANEETH REDDY",
+            "member_id": 18,
+            "borrowed_books": []
+        },
+        {
+            "name": "CHOLLETI SUCHEER",
+            "member_id": 19,
+            "borrowed_books": []
+        },
+        {
+            "name": "CHOPPARI SAI TEJA",
+            "member_id": 20,
+            "borrowed_books": []
+        },
+        {
+            "name": "DADIGA MALLIKARJUN",
+            "member_id": 21,
+            "borrowed_books": []
+        },
+        {
+            "name": "DUBBA MANASWINI REDDY",
+            "member_id": 22,
+            "borrowed_books": []
+        },
+        {
+            "name": "DUDIPALA SINDHU",
+            "member_id": 23,
+            "borrowed_books": []
+        },
+        {
+            "name": "DUMPATI VENKATTEJA",
+            "member_id": 24,
+            "borrowed_books": []
+        },
+        {
+            "name": "GAJJALA LASYA REDDY",
+            "member_id": 25,
+            "borrowed_books": []
+        },
+        {
+            "name": "GANDHAM RISHITHA",
+            "member_id": 26,
+            "borrowed_books": []
+        },
+        {
+            "name": "GEEDIPALLI VASU RAO",
+            "member_id": 27,
+            "borrowed_books": []
+        },
+        {
+            "name": "GOTTUMUKKULA ADVAITH BHARADWAJ",
+            "member_id": 28,
+            "borrowed_books": []
+        },
+        {
+            "name": "GUDIDEVUNI SATHWIK KRISHNA GOUD",
+            "member_id": 29,
+            "borrowed_books": []
+        },
+        {
+            "name": "INAVOLU DIVIJA",
+            "member_id": 30,
+            "borrowed_books": []
+        },
+        {
+            "name": "JAGATI NIKHIL RAM KUMAR",
+            "member_id": 31,
+            "borrowed_books": []
+        },
+        {
+            "name": "JALA MEGHANA",
+            "member_id": 32,
+            "borrowed_books": []
+        },
+        {
+            "name": "JONNALAGADDA SRI NITHYA REDDY",
+            "member_id": 33,
+            "borrowed_books": []
+        },
+        {
+            "name": "K SHIVA SAI MANIKANTA",
+            "member_id": 34,
+            "borrowed_books": []
+        },
+        {
+            "name": "KAJJAM NAGAPRASANNA",
+            "member_id": 35,
+            "borrowed_books": []
+        },
+        {
+            "name": "KATTA PREM",
+            "member_id": 36,
+            "borrowed_books": []
+        },
+        {
+            "name": "KODURU VAISHNAVI",
+            "member_id": 37,
+            "borrowed_books": []
+        },
+        {
+            "name": "KONDAPALLY NITHIN REDDY",
+            "member_id": 38,
+            "borrowed_books": []
+        },
+        {
+            "name": "LANKALA KRUTHVIKA",
+            "member_id": 39,
+            "borrowed_books": []
+        },
+        {
+            "name": "M SAI PRANJAL",
+            "member_id": 40,
+            "borrowed_books": []
+        },
+        {
+            "name": "MADASU MAHESH",
+            "member_id": 41,
+            "borrowed_books": []
+        },
+        {
+            "name": "MAYANK RATHI",
+            "member_id": 42,
+            "borrowed_books": []
+        },
+        {
+            "name": "MEKALA ABINAYA",
+            "member_id": 43,
+            "borrowed_books": []
+        },
+        {
+            "name": "MUDIREDDY VASHISHTA REDDY",
+            "member_id": 44,
+            "borrowed_books": []
+        },
+        {
+            "name": "NAMPALLY TARUN",
+            "member_id": 45,
+            "borrowed_books": []
+        },
+        {
+            "name": "NELLI SUJITHKUMAR",
+            "member_id": 46,
+            "borrowed_books": []
+        },
+        {
+            "name": "NINAAD KUMAR K N",
+            "member_id": 47,
+            "borrowed_books": []
+        },
+        {
+            "name": "OGIRALA NAGA SIVA LAXMAN ABHIJITH",
+            "member_id": 48,
+            "borrowed_books": []
+        },
+        {
+            "name": "P KEERTHANA SREE",
+            "member_id": 49,
+            "borrowed_books": []
+        },
+        {
+            "name": "POLISETTY CYRIL",
+            "member_id": 50,
+            "borrowed_books": []
+        },
+        {
+            "name": "POREDDY VARUN TEJ REDDY",
+            "member_id": 51,
+            "borrowed_books": []
+        },
+        {
+            "name": "PUNNA SAI AVANISH",
+            "member_id": 52,
+            "borrowed_books": []
+        },
+        {
+            "name": "S SHASHANK",
+            "member_id": 53,
+            "borrowed_books": []
+        },
+        {
+            "name": "SADE SAI CHARAN",
+            "member_id": 54,
+            "borrowed_books": []
+        },
+        {
+            "name": "SALOJU RAGHU",
+            "member_id": 55,
+            "borrowed_books": []
+        },
+        {
+            "name": "SAYINI ANSHU",
+            "member_id": 56,
+            "borrowed_books": []
+        },
+        {
+            "name": "THUMBURU SREEHITH",
+            "member_id": 57,
+            "borrowed_books": []
+        },
+        {
+            "name": "THUMMALA MADHU",
+            "member_id": 58,
+            "borrowed_books": []
+        },
+        {
+            "name": "TUNIKI VIVEK",
+            "member_id": 59,
+            "borrowed_books": []
+        },
+        {
+            "name": "VADLAKONDA BHARANISHA",
+            "member_id": 60,
+            "borrowed_books": []
+        },
+        {
+            "name": "VAISHNAVI ETTABOINA",
+            "member_id": 61,
+            "borrowed_books": []
+        },
+        {
+            "name": "VEMURI SAAHITHI",
+            "member_id": 62,
+            "borrowed_books": []
+        },
+        {
+            "name": "VIREN LOKA",
+            "member_id": 63,
+            "borrowed_books": []
+        },
+        {
+            "name": "YELUKA SAI CHANDANA",
+            "member_id": 64,
+            "borrowed_books": []
+        }
+    ]
+}
